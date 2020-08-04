@@ -54,8 +54,9 @@
 - **[Swiper](https://github.com/nolimits4web/swiper)** by [Vladimir Kharlampidi](https://github.com/nolimits4web)<br>
   Most modern mobile touch slider with hardware accelerated transitions.
   
-  - **[lint-staged](https://github.com/okonet/lint-staged)** by [Andrey Okonetchnikov](http://okonet.ru/)<br>
-  Tool for runing linters against staged git files.
+- **[Lint staged](https://github.com/okonet/lint-staged)** by [Andrey Okonetchnikov](https://github.com/okonet)<br>
+  Tool for running linters on Git staged files.
+  
 - **Telegram apps** by developers from [Telegram](https://telegram.org/apps)<br>
   Messenger clients for [iOS](https://github.com/TelegramMessenger/Telegram-iOS), [Android](https://github.com/DrKLO/Telegram), [macOS](https://github.com/overtake/TelegramSwift), [desktop](https://github.com/telegramdesktop/tdesktop), [web](https://github.com/zhukov/webogram). And [TDLib](https://github.com/tdlib/td).
 
@@ -129,9 +130,6 @@ Modular file uploader for the browser. Resumable uploads, webcam, screen recordi
 
 - **[LibreTaxi](https://github.com/ro31337/libretaxi)** by [Roman Pushkin](https://github.com/ro31337)<br>
   Uber proof-of-concept that works though Telegram.
-
-- **[Lint staged](https://github.com/okonet/lint-staged)** by [Andrey Okonetchnikov](https://github.com/okonet)<br>
-  Tool for running linters on Git staged files.
   
 - **[Nano ID](https://github.com/ai/nanoid)** by [Andrey Sitnik](https://github.com/ai)<br>
   A tiny (108 bytes), secure, URL-friendly, unique string ID generator.
